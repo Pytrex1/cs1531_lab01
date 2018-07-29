@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ice cream
+=======
+chocolate
+>>>>>>> 9df5d7f36549bcf74f461062d22653526fd965c5
